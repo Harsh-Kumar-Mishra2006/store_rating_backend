@@ -124,7 +124,7 @@ roxiler_assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Harsh-Kumar-Mishra2006/store_rating_backend>
 cd roxiler_assignment/backend
 ```
 
@@ -813,14 +813,10 @@ Authorization: Bearer YOUR_JWT_TOKEN
 - [ ] Pagination for users and stores
 - [ ] Advanced filtering and sorting
 - [ ] Refresh token implementation
-- [ ] Password reset functionality
-- [ ] Email verification
 - [ ] Rate limiting
 - [ ] Swagger / OpenAPI documentation
 - [ ] Unit testing
 - [ ] Integration testing
-- [ ] Docker support
-- [ ] Logging system
 - [ ] Deployment configuration
 
 ---
@@ -830,11 +826,3 @@ Authorization: Bearer YOUR_JWT_TOKEN
 **Harsh Kumar Mishra**
 
 ---
-
-# 📄 License
-
-This project is created for educational and assignment purposes.
-
----
-
-⭐ If you found this project useful, consider giving the repository a star!
